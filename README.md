@@ -3,7 +3,7 @@
 
 Projet développé en cours d'informatique au lycée millet à Cherbourg.
 
-Le projet a pour nom Pac'O c'est un jeux similaire a pacman.
+Le projet a pour nom Pac'O
 
 =========================
 License:
