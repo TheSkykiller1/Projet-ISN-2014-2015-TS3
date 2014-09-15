@@ -1,0 +1,5 @@
+Dossiers de ressources:
+-Images;
+-Sons;
+-Données;
+-Statistiques;
