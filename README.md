@@ -5,6 +5,7 @@ Projet développé en cours d'informatique au lycée Millet à Cherbourg.
 
 Le projet a pour nom : "Bataille navale"
 Projet optimisé pour windows 7 et python 3.2.5.1
+
 =========================
 License:
 
